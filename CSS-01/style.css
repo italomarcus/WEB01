@@ -25,11 +25,11 @@ p{
     color: #664d03;
     padding: 8px;
     border: 1px solid #ffeeba;
-    border-box: 4px;
+    
 }
 .caixa3 p{
      width: 300px;
      min-height: 150px;
      max-width: 90%;
-     background: lightgray;
+     background: rgb(201, 120, 0);
 }
